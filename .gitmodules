@@ -1,0 +1,3 @@
+[submodule "LibArchive"]
+	path = LibArchive
+	url = http://code.diaoyu.com:9300/android/LibArchive.git
